@@ -1,6 +1,5 @@
 <h1>Igor, iniciante em programação</h1>
 <h3>Não existe programa ruim, o ruim é ter que programar</h3>
-<br>
 <div>
 <a href="https://github.com/IgorNogueiraPessoa">
 <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNogueiraPessoa&layout=compact&langs_count=7&theme=dark"/>
