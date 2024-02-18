@@ -47,4 +47,9 @@
 
 <hr/>
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SagoeUI&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=fefe00&lines=There+is+always;+something+to+explore+in;+an+ever+-+evolving+world"/>
+</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fefe00&height=120&section=footer"/>
+
 
