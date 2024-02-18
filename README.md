@@ -29,7 +29,7 @@
 <br> 
 <h3 align="center">Learning about/My tools...</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma" align="center" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,kotlin" align="center" />
     <img src="https://skillicons.dev/icons?i=javascript,mongodb,c,java,mysql" align="center" /><br>
 </div>
 
