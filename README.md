@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fefe00&height=120&section=header"/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=SagoeUI&size=35&center=true&vCenter=true&width=500&height=70&duration=3800&color=fefe00&lines=Hello+there,+folks!+👋;+My+name+is+Igor;+👁️+🐝+Ⓜ️"/>
+    <picture><img align="right" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 125px></picture>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SagoeUI&size=35&center=true&vCenter=true&width=500&height=70&duration=3800&color=fefe00&lines=Hello+there,+folks!+👋;+My+name+is+Igor;+👁️+🐝+Ⓜ️"/> 
 </h3>
 <hr/>
 
