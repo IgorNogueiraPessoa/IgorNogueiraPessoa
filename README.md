@@ -31,7 +31,7 @@
 <br> 
 <h3 align="center">Learning about/My tools...</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,kotlin" align="center" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,php,github,figma,kotlin" align="center" />
     <img src="https://skillicons.dev/icons?i=javascript,tailwind,java,mysql,laravel" align="center" /><br>
 </div>
 
