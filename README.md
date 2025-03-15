@@ -6,8 +6,8 @@
 </h3>
 <hr/>
 
-<h3 align="center">🌐P-TECH program student in Etec Zona Leste</h3>
-<h3 align="center">✏️Systems Development - Year 3/3</h3>
+<h3 align="center">🌐IBM P-TECH student program at Fatec Zona Leste</h3>
+<h3 align="center">✏️Analysis and development of systems - Year 4/5</h3>
 
 <br/>
 
