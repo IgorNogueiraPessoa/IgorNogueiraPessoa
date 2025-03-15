@@ -7,7 +7,7 @@
 <hr/>
 
 <h3 align="center">🌐IBM´s P-TECH student program at Fatec Zona Leste</h3>
-<h3 align="center">✏️Analysis and development of systems - Year 4/5</h3>
+<h3 align="center">✏️Analysis and Development of Systems - Year 4/5</h3>
 
 <br/>
 
