@@ -48,7 +48,7 @@
 </div>
 
 <hr/>
-
+<h3 align="center">There's always something to explore in an ever-evolving world.</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fefe00&height=120&section=footer"/>
 
