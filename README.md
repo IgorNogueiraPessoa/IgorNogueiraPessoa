@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   
-   <a href="mailto:igor.pessoa@etec.sp.gov.br">
+   <a href="mailto:igor.pessoa01@fatec.sp.gov.br">
      <img src="https://img.shields.io/badge/outlook-0077B5?style=for-the-badge&logo=outlook&logoColor=white" target="_blank" />
   </a>
 </div>
